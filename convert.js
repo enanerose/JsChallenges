@@ -3,3 +3,4 @@ function celciusToFahrenheit(n){
 }
 var r = celciusToFahrenheit (20);
 console.log(r);
+console.log("Log message to be pushed to GitHub");
