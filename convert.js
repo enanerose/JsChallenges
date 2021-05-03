@@ -1,5 +1,5 @@
 function celsiusToFahrenheit(n){
-    return 1.8 + 32;
+    return (n * 1.8) + 32;
 }
 var r = celsiusToFahrenheit (20);
 console.log(r);
